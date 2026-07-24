@@ -186,7 +186,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://79126465721948",
-		SoundId = "rbxassetid://105184459076654",
+		SoundId = "rbxassetid://71894088111042",
 		Speed = 0.5,
 	},
 	{
@@ -3277,10 +3277,92 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://127773179667141",
 		Speed = 1.0,
 	},
+	
+	--EDM
+	{
+		Title = "P.I.M.P. (Edit)",
+		Artist = "Lawstylez x Flowa x DJ MNS x Ramses",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://103846678929439",
+		Speed = 0.48,
+	},
+	{
+		Title = "New Beat Order",
+		Artist = "Seeko, Diverse Bind, Dean Andrew -",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://82421349876642",
+		Speed = 0.48,
+	},
+	{
+		Title = "Without Me",
+		Artist = "Lawstylez, RAMSES",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://138731588929892",
+		Speed = 0.48,
+	},
+	{
+		Title = "Can't Get You Out O",
+		Artist = "Helion, Mike Emilio, Ascence",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://75013205528589",
+		Speed = 0.48,
+	},
+	{
+		Title = "Love Don’t Let Me G",
+		Artist = "Ascence, Kid Marko, Voltarii",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://129180863378274",
+		Speed = 0.48,
+	},
+	{
+		Title = "Alone",
+		Artist = "Saimon Music, Anika, Schrandy",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://127806238603676",
+		Speed = 0.48,
+	},
+	{
+		Title = "Broken Angel",
+		Artist = "Alan Walker, Steve Aoki, Lonely Club",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://118766545455426",
+		Speed = 0.48,
+	},
+	{
+		Title = "LIGHTS GO OUT",
+		Artist = "John Summit",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://133053761798252",
+		Speed = 0.48,
+	},
+	{
+		Title = "Die Young - Speed Garage Remix",
+		Artist = "Speed Garage Remix",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://120919293429547",
+		Speed = 0.48,
+	},
+	{
+		Title = "Disco Lines & Tinashe - No Broke Boys",
+		Artist = "Disco Lines & Tinashe",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://133629663681064",
+		Speed = 0.48,
+	},
 	{
 		Title = "MIXTAPE VOL.1 (Part 5/5)",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://137379414449938",
 		Speed = 0.48,
@@ -3288,7 +3370,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MIXTAPE VOL.1 (Part 4/5)",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://115669168418601",
 		Speed = 0.48,
@@ -3296,7 +3378,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MIXTAPE VOL.1 (Part 3/5)",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://135250755919939",
 		Speed = 0.48,
@@ -3304,7 +3386,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MIXTAPE VOL.1 (Part 2/5)",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://135311552453640",
 		Speed = 0.48,
@@ -3312,7 +3394,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "EDM MIXTAPE 2025 Part 2",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://111362789286310",
 		Speed = 0.48,
@@ -3320,7 +3402,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "EDM MIXTAPE 2025 Part 1",
 		Artist = "MIXTAPE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://83938661791890",
 		Speed = 0.48,
@@ -3328,7 +3410,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Madonna - Hung Up",
 		Artist = "Madonna",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://133843256309021",
 		Speed = 0.46,
@@ -3336,7 +3418,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Usher - Yeah",
 		Artist = "Usher",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://126740170744663",
 		Speed = 0.45,
@@ -3344,7 +3426,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Spice Girls - Wannabe",
 		Artist = "Spice Girls",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://93850214649523",
 		Speed = 0.45,
@@ -3352,7 +3434,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "BEYONCE - SINGLE LADIES",
 		Artist = "BEYONCE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://118570465859434",
 		Speed = 0.48,
@@ -3360,7 +3442,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Avril Lavigne - Complicated",
 		Artist = "Avril Lavigne",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://74386259235888",
 		Speed = 0.48,
@@ -3368,7 +3450,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Fergie - Glamorous",
 		Artist = "Fergie",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://98804057112186",
 		Speed = 0.48,
@@ -3376,7 +3458,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Flex Orlando x Shania Twain - Follow A Drea",
 		Artist = "Flex Orlando x Shania Twain",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://104955657303211",
 		Speed = 0.48,
@@ -3384,7 +3466,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Imagine Dragons - Bad Liar (Squaws Remix)",
 		Artist = "Imagine Dragons",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://109244858495078",
 		Speed = 0.48,
@@ -3392,7 +3474,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "The Weeknd & Adele - Set Fire To The Hills",
 		Artist = "The Weeknd & Adele",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://78786811738166",
 		Speed = 0.48,
@@ -3400,7 +3482,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Rihanna - Where Have You Been",
 		Artist = "Rihanna",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://93317806718055",
 		Speed = 0.48,
@@ -3408,7 +3490,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "50 Cent - In Da Club (Trias Remix)",
 		Artist = "EDM",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://137106608205467",
 		Speed = 0.48,
@@ -3416,7 +3498,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Dr. Dre - The Next Episode (San Holo Remix)",
 		Artist = "Dr. Dre",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://114212445670764",
 		Speed = 0.48,
@@ -3424,7 +3506,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Miley Cyrus - We Can't Stop",
 		Artist = "Miley Cyrus",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://103984996875638",
 		Speed = 0.48,
@@ -3432,7 +3514,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Miley Cyrus - Wrecking Ball",
 		Artist = "Miley Cyrus",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://136665153420189",
 		Speed = 0.48,
@@ -3440,7 +3522,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yellow Claw - Shotgun",
 		Artist = "Yellow Claw",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://136029636101213",
 		Speed = 0.48,
@@ -3448,7 +3530,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KATSEYE - PINKY UP",
 		Artist = "KATSEYE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://103597602651371",
 		Speed = 0.48,
@@ -3456,7 +3538,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Martin Garrix _ Dua Lipa - Scared to be Lonely",
 		Artist = "Martin Garrix",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://135729518434679",
 		Speed = 0.48,
@@ -3464,7 +3546,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Calvin Harris - Outside ft. Ellie Goulding",
 		Artist = "Calvin Harris",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://74971331676542",
 		Speed = 0.48,
@@ -3472,7 +3554,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex & Alvin Risk - Try It Out ",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://94406524473088",
 		Speed = 0.48,
@@ -3480,7 +3562,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Aazar - Lay It Down",
 		Artist = "Aazar",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://136410425377261",
 		Speed = 0.48,
@@ -3488,7 +3570,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Black Eyed Peas - Pump It",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://106244717120065",
 		Speed = 0.48,
@@ -3496,7 +3578,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Purple Lamborghini vs. Panda (Skrillex Mashup)",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://122876752789695",
 		Speed = 0.48,
@@ -3504,7 +3586,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Rae Sremmurd - Black Beatles",
 		Artist = "Rae Sremmurd",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://79698596965618",
 		Speed = 0.48,
@@ -3512,7 +3594,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Dj Snake, Lil Jon, Malaa - Turn Down",
 		Artist = "Dj Snake",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://84576970710364",
 		Speed = 0.48,
@@ -3520,7 +3602,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "NGHTMRE - STREET (JEFF105)",
 		Artist = "NGHTMRE",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://75263041432062",
 		Speed = 0.48,
@@ -3528,7 +3610,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Dj Snake - the-wave-lunatic",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://79120549654298",
 		Speed = 0.48,
@@ -3536,7 +3618,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yo Majesty - Club Action",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://114331002556890",
 		Speed = 0.48,
@@ -3544,7 +3626,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Holla Out VIP",
 		Artist = "Jack U",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://138573895105762",
 		Speed = 0.48,
@@ -3552,7 +3634,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex - Make it bun dem",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://93100632425005",
 		Speed = 0.48,
@@ -3560,7 +3642,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yellow Claw x Lunatic - till it hurt",
 		Artist = "Yellow Claw x Lunatic",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://110219543973000",
 		Speed = 0.48,
@@ -3568,7 +3650,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yellow Claw - DJ Torn in up",
 		Artist = "Yellow Claw",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://138512193210616",
 		Speed = 0.48,
@@ -3576,7 +3658,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ Snake",
 		Artist = "DJ Snake",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://122926349886759",
 		Speed = 0.48,
@@ -3584,7 +3666,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Major Lazer - lean on",
 		Artist = "Major Lazer",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://140467710212336",
 		Speed = 0.48,
@@ -3592,7 +3674,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex & LH4",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://112900776298206",
 		Speed = 0.48,
@@ -3600,7 +3682,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yogi ft. Pusha T",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://135276127942772",
 		Speed = 0.48,
@@ -3608,7 +3690,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex - Cinema (Skrillex Remix)",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://96685476072972",
 		Speed = 0.48,
@@ -3616,7 +3698,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Ragga Twins - Bad Man (Skrillex Remix)",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://127814328992389",
 		Speed = 0.48,
@@ -3624,7 +3706,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Yellow Claw - SG",
 		Artist = "Yellow Claw",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://121916884872974",
 		Speed = 0.48,
@@ -3632,7 +3714,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex - Rangga Bomb",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://74268023837386",
 		Speed = 0.48,
@@ -3640,7 +3722,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Skrillex - RATATA",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://94535188073197",
 		Speed = 0.48,
@@ -3648,7 +3730,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "EDM - Dance for me",
 		Artist = "Skrillex",
-		Genre = "Edm",
+		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://124586398461405",
 		Speed = 0.48,
