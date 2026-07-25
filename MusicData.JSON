@@ -14,6 +14,38 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "CIPERI PAMPAM PROPAGANDA",
+		Artist = "ELOPEY",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://124885580615342",
+		Speed = 0.48,
+	},
+	{
+		Title = "TIMELESS - THE WEEKND",
+		Artist = "NAHKODA BKB EDIT",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://132199160011146",
+		Speed = 0.48,
+	},
+	{
+		Title = "I FEEL GOOD",
+		Artist = "ALEXA BKB EDIT",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://91531809078516",
+		Speed = 0.48,
+	},
+	{
+		Title = "YOU DON’T EVEN KNOW ME X TERLALU CINTA",
+		Artist = "ELOPEY",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://128960914200219",
+		Speed = 0.48,
+	},
+	{
 		Title = "MINIMIX BKB 1",
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
@@ -1942,14 +1974,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
-		Title = "AKU SUGUESSS",
-		Artist = "ELOPEY",
-		Genre = "BREAKBEAT",
-		ImageId = "rbxassetid://135289528270188",
-		SoundId = "rbxassetid://90251101880571",
-		Speed = 1.0,
-	},
-	{
 		Title = "LAPOR BOS REMIX",
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
@@ -1965,14 +1989,6 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://81254468311844",
 		Speed = 1.0,
 	},
-	--{
-	--	Title = "JAGUNG_REBUS",
-	--	Artist = "ELOPEY",
-	--	Genre = "BREAKBEAT",
-	--	ImageId = "rbxassetid://135289528270188",
-	--	SoundId = "rbxassetid://95510763404852",
-	--	Speed = 1.0,
-	--},
 	{
 		Title = "WORTH_IT_DANCE_INDO_STYLE_DJ",
 		Artist = "ELOPEY",
@@ -2038,9 +2054,25 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
+		Title = "INDONESIA PUSAKA",
+		Artist = "ELOPEY",
+		Genre = "INDOMIX",
+		ImageId = "rbxassetid://79126465721948",
+		SoundId = "rbxassetid://90446698655389",
+		Speed = 0.45,
+	},
+	{
+		Title = "ANI ANI MAIN BURUNG",
+		Artist = "ELOPEY",
+		Genre = "INDOMIX",
+		ImageId = "rbxassetid://79126465721948",
+		SoundId = "rbxassetid://110666711800486",
+		Speed = 0.45,
+	},
+	{
 		Title = "DJ TERBUAI AKU DALAM MULUT MANISMU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://119893384151887",
 		Speed = 0.5,
@@ -2048,7 +2080,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ SOU FAVELA SLOW BASS TREND DANCE BRASIL",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://122362043744678",
 		Speed = 0.5,
@@ -2056,7 +2088,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "JAM CLOSINGAN || DJ DESCO PRO x BABAT x BETE",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://96594581301381",
 		Speed = 0.48,
@@ -2064,7 +2096,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TOKYO DRIFT X SABILULUNGAN X RUTINITAS RADONG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://120694508657590",
 		Speed = 0.48,
@@ -2072,7 +2104,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "AMBILKAN GELAS",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://78819589471230",
 		Speed = 1.0,
@@ -2080,7 +2112,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MARI_PULANG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://122014726840726",
 		Speed = 1.0,
@@ -2088,7 +2120,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "PESAN DARI HATI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://125884432564019",
 		Speed = 1.0,
@@ -2096,7 +2128,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DIBALIK PERTANDA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://123687908641385",
 		Speed = 1.0,
@@ -2104,7 +2136,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TAK SELAMANYA SELINGKUH ITU INDAH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://132959075291658",
 		Speed = 1.0,
@@ -2112,7 +2144,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "CINTA SURGA AUREL FT RASYA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://101614299597415",
 		Speed = 1.0,
@@ -2120,7 +2152,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KESAKITANKU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://114508776923595",
 		Speed = 1.0,
@@ -2128,7 +2160,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DI MATAMU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://127977827856564",
 		Speed = 1.0,
@@ -2136,7 +2168,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TEGA LYODRA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://83371653977917",
 		Speed = 1.0,
@@ -2144,7 +2176,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "CINTA TAK HARUS MEMILIKI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://108450411528120",
 		Speed = 1.0,
@@ -2152,7 +2184,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "SAAT KAU PERGI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://72831243694826",
 		Speed = 1.0,
@@ -2160,7 +2192,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TENXI BERUBAH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://73697271059179",
 		Speed = 1.0,
@@ -2168,7 +2200,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MEJIKUHIBINIU TENXI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://80651112570918",
 		Speed = 1.0,
@@ -2176,7 +2208,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KASIH ABA ABA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://88324861473682",
 		Speed = 1.0,
@@ -2184,7 +2216,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "SESI POTRET",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://78963240908772",
 		Speed = 1.0,
@@ -2192,7 +2224,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "CURI CURI PANDANG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://114957366242342",
 		Speed = 1.0,
@@ -2200,7 +2232,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DIA TENXI SENCY",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://100604347310023",
 		Speed = 1.0,
@@ -2208,7 +2240,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TAKKAN PISAH V2",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://117660950037269",
 		Speed = 1.0,
@@ -2216,7 +2248,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ LELAKI CADANGAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://123674701639423",
 		Speed = 1.0,
@@ -2224,7 +2256,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "WALI - YANK",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://78474156679409",
 		Speed = 1.0,
@@ -2232,7 +2264,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ PERGI LAH KASIH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://82353475606730",
 		Speed = 1.0,
@@ -2240,7 +2272,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ ALO REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://99066489185053",
 		Speed = 1.0,
@@ -2248,7 +2280,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BENTO REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://72145336122244",
 		Speed = 1.0,
@@ -2256,7 +2288,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ GENT REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://87681856396074",
 		Speed = 1.0,
@@ -2264,7 +2296,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ IANMUSICK - ADL",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://131367950348094",
 		Speed = 1.0,
@@ -2272,7 +2304,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KOPLO NENEKU PAHLAWANKU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://91659764710479",
 		Speed = 1.0,
@@ -2280,7 +2312,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ AKSA - BERSEMI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://94378122092241",
 		Speed = 1.0,
@@ -2288,7 +2320,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BGJONO",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://90792365030807",
 		Speed = 1.0,
@@ -2296,7 +2328,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "GARAM MADU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://76392330725655",
 		Speed = 1.0,
@@ -2304,7 +2336,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "BERONDONG TUA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://91742566356318",
 		Speed = 1.0,
@@ -2312,7 +2344,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ ALAMAK",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://85320577656725",
 		Speed = 1.0,
@@ -2320,7 +2352,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BINTANG 5",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://123515036854080",
 		Speed = 1.0,
@@ -2328,7 +2360,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ NGGA DULU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://80487188493468",
 		Speed = 1.0,
@@ -2336,7 +2368,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TABOLA BALE",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://104207837699519",
 		Speed = 1.0,
@@ -2344,7 +2376,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TOR MONITORI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://121047666436740",
 		Speed = 1.0,
@@ -2352,7 +2384,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ KEBUTUHAN HATI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://139339605321255",
 		Speed = 1.0,
@@ -2360,7 +2392,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ SEBATAS MIMPI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://110462697249603",
 		Speed = 1.0,
@@ -2368,7 +2400,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ SEPERTI MATI LAMPU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://124776791174657",
 		Speed = 1.0,
@@ -2376,7 +2408,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TAK SEGAMPANG ITU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://122785496174555",
 		Speed = 1.0,
@@ -2384,7 +2416,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TERLALU DALAM",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://81674903454025",
 		Speed = 1.0,
@@ -2392,7 +2424,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BILA NANTI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://105663669970451",
 		Speed = 1.0,
@@ -2400,7 +2432,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "NAYKILLA - SO ASU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://123960793137609",
 		Speed = 1.0,
@@ -2408,7 +2440,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "PACAR 5 LANGKAH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://82923271148648",
 		Speed = 1.0,
@@ -2416,7 +2448,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TENXI BERUBAH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://100043356332995",
 		Speed = 1.0,
@@ -2424,7 +2456,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "ABG TUA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://139825186779265",
 		Speed = 1.0,
@@ -2432,7 +2464,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "CINTA SATU MALAM",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://135900536260601",
 		Speed = 1.0,
@@ -2440,7 +2472,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "COBA COBA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://77533933904801",
 		Speed = 1.0,
@@ -2448,7 +2480,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "LAMPU KUNING",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://125410603223844",
 		Speed = 1.0,
@@ -2456,7 +2488,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ TAPI BERPUTAR PUTAR",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://71777912736427",
 		Speed = 1.0,
@@ -2464,7 +2496,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DROP ENAKEUN LAMIN YAMAL X RINDU AKU RINDU KAMU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://78896026950522",
 		Speed = 1.0,
@@ -2472,7 +2504,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DROP ENAKEUN V4 X GARA GARA SEBOTOL MINUMAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://117576430672715",
 		Speed = 1.0,
@@ -2480,7 +2512,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ LILDAVID - MODE PESAWAT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://88520959472674",
 		Speed = 1.0,
@@ -2488,7 +2520,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "Y QUE FUE X GARAM CINA - WIDOZ BREAKBEAT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://80681608785383",
 		Speed = 1.0,
@@ -2496,7 +2528,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ RINDU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://114520666585836",
 		Speed = 1.0,
@@ -2504,7 +2536,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "FLOWW - DOMBA KURING",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://124297655364203",
 		Speed = 1.0,
@@ -2512,7 +2544,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "HAPUS AKU INDOBOUNCE HUZNIMHMD EDIT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://75693014697198",
 		Speed = 1.0,
@@ -2520,7 +2552,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "ADA BAYANG MU GALAU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://95361054961188",
 		Speed = 1.0,
@@ -2528,7 +2560,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ KENANGAN TERINDAH EDIT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://119870417910200",
 		Speed = 1.0,
@@ -2536,7 +2568,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BINTANG 14 YUTA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://82058930853064",
 		Speed = 1.0,
@@ -2544,7 +2576,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TERBANG BERSAMAKU EDIT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://126776643944709",
 		Speed = 1.0,
@@ -2552,7 +2584,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ AWAS NANTI JATUH CINTA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://136850726149159",
 		Speed = 1.0,
@@ -2560,7 +2592,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "ASABLANCA ADNAN EDIT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://101489723802141",
 		Speed = 1.0,
@@ -2568,7 +2600,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "SELAMAT ULANG TAHUN LIKEBIEE X KRSN EDIT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://88232084546099",
 		Speed = 1.0,
@@ -2576,7 +2608,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MARDUA HOLONG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://120091099968597",
 		Speed = 1.0,
@@ -2584,7 +2616,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TEMAN TAPI MESRA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://96637738488938",
 		Speed = 1.0,
@@ -2592,7 +2624,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "HEY LADIES",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://70791833311137",
 		Speed = 1.0,
@@ -2600,7 +2632,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MALAM MINGGU MIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://138011895134416",
 		Speed = 1.0,
@@ -2608,7 +2640,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "R68",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://115030273695006",
 		Speed = 1.0,
@@ -2616,7 +2648,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "GALA GALA REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://125971411000380",
 		Speed = 1.0,
@@ -2624,7 +2656,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BAWA DIA KEMBALI MAHALINI BREAKBEAT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://116137513019561",
 		Speed = 1.0,
@@ -2632,7 +2664,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "HIDUPMU MARAH MARAH MULU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://118618139193318",
 		Speed = 1.0,
@@ -2640,7 +2672,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "GADIS LAMBADA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://75508837232665",
 		Speed = 1.0,
@@ -2648,7 +2680,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "AYAM JAGO",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://116330352491578",
 		Speed = 1.0,
@@ -2656,7 +2688,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "JANGAN HILANGKAN DIA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://93786417553348",
 		Speed = 1.0,
@@ -2664,7 +2696,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "GAMMA1 SAYANG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://118530863948423",
 		Speed = 1.0,
@@ -2672,7 +2704,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TAMU UNDANGAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://90276669590486",
 		Speed = 1.0,
@@ -2680,7 +2712,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MENERIMA LUKA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://91993939113894",
 		Speed = 1.0,
@@ -2688,7 +2720,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "SESUATU YG SEMPURNA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://139770403664857",
 		Speed = 1.0,
@@ -2696,7 +2728,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KOTA INI TAK SAMA TANPAMU",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://85484153987098",
 		Speed = 1.0,
@@ -2704,7 +2736,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TANPA BICARA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://82806305549681",
 		Speed = 1.0,
@@ -2712,7 +2744,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ BUKAN CINTA BIASA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://134754808182677",
 		Speed = 1.0,
@@ -2720,7 +2752,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KHAYALAN TINGKAT TINGGI",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://72851856632353",
 		Speed = 1.0,
@@ -2728,7 +2760,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "BANG JONO REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://105971979571891",
 		Speed = 1.0,
@@ -2736,7 +2768,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ PLEASE JANGAN CALLING",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://124442167587607",
 		Speed = 1.0,
@@ -2744,7 +2776,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ STECU STECU BREAKBEAT",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://133948889494595",
 		Speed = 1.0,
@@ -2752,7 +2784,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "BUTTERFLY REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://88802470281481",
 		Speed = 1.0,
@@ -2760,7 +2792,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "PERGI DAN LUPAKAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://82056868172456",
 		Speed = 1.0,
@@ -2768,7 +2800,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "AKU MERIANG DJ",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://116071972724235",
 		Speed = 1.0,
@@ -2776,7 +2808,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "AKU TAK MAU BICARA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://132271077134374",
 		Speed = 1.0,
@@ -2784,7 +2816,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "SAMPE BAWAH",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://136568933644003",
 		Speed = 1.0,
@@ -2792,7 +2824,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "KASIH SAYANG",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://106963455530721",
 		Speed = 1.0,
@@ -2800,7 +2832,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TAK KAU ANGGAP",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://102995442714904",
 		Speed = 1.0,
@@ -2808,7 +2840,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "PUTRI IKLAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://91308645425249",
 		Speed = 1.0,
@@ -2816,7 +2848,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ JAWARA CINTA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://116406367192765",
 		Speed = 1.0,
@@ -2824,7 +2856,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "TEREK BALE",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://75426990398175",
 		Speed = 1.0,
@@ -2832,7 +2864,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "MALIHI DAYAK",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://93033678115465",
 		Speed = 1.0,
@@ -2840,7 +2872,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ SETAN",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://78579622308277",
 		Speed = 1.0,
@@ -2848,7 +2880,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "CINTA TERBAIK REMIX",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://103810716695529",
 		Speed = 1.0,
@@ -2856,7 +2888,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ LUNGUN GAYO",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://104260233272242",
 		Speed = 1.0,
@@ -2864,7 +2896,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "JANGAN TUNGGU LAMA LAMA",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://100790333280969",
 		Speed = 1.0,
@@ -2872,7 +2904,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "IMFREE HIPDUT X BB.2FR",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://111626268182343",
 		Speed = 1.0,
@@ -2880,7 +2912,7 @@ local OriginalPlaylist: { MusicItem } = {
 	{
 		Title = "DJ MULTO",
 		Artist = "ELOPEY",
-		Genre = "Indomix",
+		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://132727292676278",
 		Speed = 1.0,
