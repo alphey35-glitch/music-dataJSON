@@ -18,7 +18,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Artist = "hbrp Edit",
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
-		SoundId = "rbxassetid://124885580615342",
+		SoundId = "rbxassetid://113297607709821",
 		Speed = 0.48,
 	},
 	{
