@@ -14,6 +14,14 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "Un Verano en Nueva York",
+		Artist = "hbrp Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://124885580615342",
+		Speed = 0.48,
+	},
+	{
 		Title = "CIPERI PAMPAM PROPAGANDA",
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
