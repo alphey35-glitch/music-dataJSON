@@ -14,6 +14,38 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "Take My Hand",
+		Artist = "hbrp Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://104788007489798",
+		Speed = 0.48,
+	},
+	{
+		Title = "BRAXILA",
+		Artist = "hbrp Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://93423853821494",
+		Speed = 0.48,
+	},
+	{
+		Title = "Stoopit",
+		Artist = "hbrp Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://91374283084447",
+		Speed = 0.48,
+	},
+	{
+		Title = "Samba de Janeiro",
+		Artist = "hbrp Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://84059535976722",
+		Speed = 0.48,
+	},
+	{
 		Title = "Un Verano en Nueva York",
 		Artist = "hbrp Edit",
 		Genre = "BREAKBEAT",
@@ -2829,14 +2861,14 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://136568933644003",
 		Speed = 1.0,
 	},
-	{
-		Title = "KASIH SAYANG",
-		Artist = "ELOPEY",
-		Genre = "INDOMIX",
-		ImageId = "rbxassetid://79126465721948",
-		SoundId = "rbxassetid://106963455530721",
-		Speed = 1.0,
-	},
+	--{
+	--	Title = "KASIH SAYANG",
+	--	Artist = "ELOPEY",
+	--	Genre = "INDOMIX",
+	--	ImageId = "rbxassetid://79126465721948",
+	--	SoundId = "rbxassetid://106963455530721",
+	--	Speed = 1.0,
+	--},
 	{
 		Title = "TAK KAU ANGGAP",
 		Artist = "ELOPEY",
@@ -3775,6 +3807,24 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://124586398461405",
 		Speed = 0.48,
 	},
+	
+	--FUNKOT
+	{
+		Title = "FUNKOT PALEMBANG - SALAH APA",
+		Artist = "Chiika",
+		Genre = "Funkot",
+		ImageId = "rbxassetid://113251263803742",
+		SoundId = "rbxassetid://101217702650327",
+		Speed = 0.50,
+	},
+	{
+		Title = "FUNKOT - TERBUAI DALAM MIMPI",
+		Artist = "Chiika",
+		Genre = "Funkot",
+		ImageId = "rbxassetid://113251263803742",
+		SoundId = "rbxassetid://113005729406621",
+		Speed = 0.50,
+	},
 	{
 		Title = "DJ MENGAPA KAU DAN AKU BERSUA",
 		Artist = "Chiika",
@@ -4541,7 +4591,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://86979132232278",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Honeymoon Avenue",
@@ -4549,7 +4599,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://123926635160862",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - supernatural",
@@ -4557,7 +4607,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://113325139270378",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - 34+35",
@@ -4565,7 +4615,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://139696713330480",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - 7 Rings",
@@ -4573,7 +4623,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://134113345339330",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Bang Bang",
@@ -4581,7 +4631,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://135109835158335",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Love Me Harder",
@@ -4589,7 +4639,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://102451926512773",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Bloodline",
@@ -4597,7 +4647,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://86586764286848",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Bye",
@@ -4605,7 +4655,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://121051914137231",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Dangerous Woman",
@@ -4613,7 +4663,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://119804442167897",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - God Is a Woman",
@@ -4621,7 +4671,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://131130724107468",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - No Tears Left to Cry",
@@ -4629,7 +4679,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://136524834411904",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - One Last Time",
@@ -4637,7 +4687,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://119477517145875",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Positions",
@@ -4645,7 +4695,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://108517540540868",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Side to Side",
@@ -4653,7 +4703,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://100914610830060",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - Thank U, Next",
@@ -4661,7 +4711,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://126729615930395",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - The Boy Is Mine",
@@ -4669,7 +4719,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://121551220203614",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande - We Can't Be Friends",
@@ -4677,7 +4727,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://90219829067475",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Ariana Grande, Justin Bieber - Stuck with U",
@@ -4685,7 +4735,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://99548933619702",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Arctic Monkeys - Do I Wanna Know?",
@@ -4797,7 +4847,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://94437590797932",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - Birds of a Feather",
@@ -4805,7 +4855,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://131269319553984",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - Everything I Wanted",
@@ -4813,7 +4863,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://105932993199966",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - I Love You",
@@ -4821,7 +4871,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://117175585394221",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - idontwannabeyouanymore",
@@ -4829,7 +4879,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://72390702595687",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - Ocean Eyes",
@@ -4837,7 +4887,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://77288532580808",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - Lovely ft. Khalid",
@@ -4845,7 +4895,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://107700295111027",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - WILDFLOWER",
@@ -4853,7 +4903,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://120665855735419",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - When the Party's Over",
@@ -4861,7 +4911,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://115843439391742",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish -  What Was I Made For?",
@@ -4869,7 +4919,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://90349556720842",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - Bury a Friend",
@@ -4877,7 +4927,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://77378535811735",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Billie Eilish - BLUE",
@@ -4885,7 +4935,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://92739850066116",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	
 }
