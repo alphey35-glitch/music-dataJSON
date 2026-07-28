@@ -14,6 +14,46 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "MARAPTHON 5",
+		Artist = "YB",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://111500205275511",
+		Speed = 0.45,
+	},
+	{
+		Title = "MARAPTHON 4",
+		Artist = "YB",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://93645606745121",
+		Speed = 0.45,
+	},
+	{
+		Title = "MARAPTHON 3",
+		Artist = "YB",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://97730045721479",
+		Speed = 0.45,
+	},
+	{
+		Title = "MARAPTHON 2",
+		Artist = "YB",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://129367140672785",
+		Speed = 0.45,
+	},
+	{
+		Title = "MARAPTHON 1",
+		Artist = "YB",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://95849114659850",
+		Speed = 0.45,
+	},
+	{
 		Title = "Take My Hand",
 		Artist = "hbrp Edit",
 		Genre = "BREAKBEAT",
@@ -211,7 +251,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://93789190783478",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "BKB MIXTAPE 4",
@@ -219,7 +259,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://96800750363531",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "BKB MIXTAPE 3",
@@ -227,7 +267,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://71900562174083",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "BKB MIXTAPE 2",
@@ -235,7 +275,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://87545785377130",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "BKB MIXTAPE 1",
@@ -243,7 +283,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://88764919471372",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "Boom & Pa BKB",
@@ -3285,14 +3325,14 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://107051631565849",
 		Speed = 1.0,
 	},
-	{
-		Title = "BREAKBEAT LOREEN TATTO 🐺🐺",
-		Artist = "DJ LZEN",
-		Genre = "Dj Lzen",
-		ImageId = "rbxassetid://115527475804880",
-		SoundId = "rbxassetid://110732452081525",
-		Speed = 1.0,
-	},
+	--{
+	--	Title = "BREAKBEAT LOREEN TATTO 🐺🐺",
+	--	Artist = "DJ LZEN",
+	--	Genre = "Dj Lzen",
+	--	ImageId = "rbxassetid://115527475804880",
+	--	SoundId = "rbxassetid://110732452081525",
+	--	Speed = 1.0,
+	--},
 	{
 		Title = "AYO GOYANG DUMANG BOOTLEG 🐺🐺",
 		Artist = "DJ LZEN",
@@ -4575,7 +4615,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "ORIGINAL MUSIC",
 		ImageId = "rbxassetid://94199830714404",
 		SoundId = "rbxassetid://113999307366604",
-		Speed = 0.43,
+		Speed = 0.45,
 	},
 	{
 		Title = "Anthony Lazaro & Sarah Kang - Love Letter",
