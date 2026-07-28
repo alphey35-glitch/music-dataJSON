@@ -14,6 +14,30 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "DJ PANDA REMIX 3",
+		Artist = "DJ PANDA",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://131012401944658",
+		Speed = 0.45,
+	},
+	{
+		Title = "DJ PANDA REMIX 2",
+		Artist = "DJ PANDA",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://139168097077877",
+		Speed = 0.45,
+	},
+	{
+		Title = "DJ PANDA REMIX 1",
+		Artist = "DJ PANDA",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://112624678013460",
+		Speed = 0.45,
+	},
+	{
 		Title = "MARAPTHON 5",
 		Artist = "YB",
 		Genre = "BREAKBEAT",
