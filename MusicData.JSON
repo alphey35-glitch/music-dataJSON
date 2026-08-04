@@ -14,12 +14,20 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "Maria Naik Becak",
+		Artist = "Bucks & Miciko Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://134104215033337",
+		Speed = 0.45, --beda bypass
+	},
+	{
 		Title = "DVBBS - TSUNAMI",
 		Artist = "DVBBS",
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://94199830714404",
-		SoundId = "rbxassetid://74302470228690",
-		Speed = 0.45,
+		SoundId = "rbxassetid://103254766839034",
+		Speed = 0.45, --beda bypass
 	},
 	{
 		Title = "BUM BUM TAM TAM",
@@ -3461,7 +3469,7 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://127773179667141",
 		Speed = 1.0,
 	},
-	
+
 	--EDM
 	{
 		Title = "P.I.M.P. (Edit)",
@@ -3919,7 +3927,7 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://124586398461405",
 		Speed = 0.48,
 	},
-	
+
 	--FUNKOT
 	{
 		Title = "FUNKOT PALEMBANG - SALAH APA",
@@ -5049,7 +5057,7 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://92739850066116",
 		Speed = 0.45,
 	},
-	
+
 }
 
 local OriginalSoundEffects = {
