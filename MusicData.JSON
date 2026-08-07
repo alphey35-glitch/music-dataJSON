@@ -14,6 +14,54 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "Easy On Me",
+		Artist = "Adhe Ardians x Randhy Ariesta",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://75048140126129",
+		Speed = 0.45, 
+	},
+	{
+		Title = "Ke$ha - We R Who We R",
+		Artist = "Ke$ha",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://91744135266833",
+		Speed = 0.45, 
+	},
+	{
+		Title = "Gemu Fa Mi Re",
+		Artist = "hbrp EDIT",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://100853062921502",
+		Speed = 0.45, 
+	},
+	{
+		Title = "Calabria",
+		Artist = "hbrp EDIT",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://96741555901130",
+		Speed = 0.45, 
+	},
+	{
+		Title = "BAD BUNNY - NUEVAYoL",
+		Artist = "NUEVAYoL",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://98909586178385",
+		Speed = 0.45, 
+	},
+	{
+		Title = "I Miss You X Morena",
+		Artist = "Bucks & Miciko Edit",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://121556859100200",
+		Speed = 0.45, 
+	},
+	{
 		Title = "Maria Naik Becak",
 		Artist = "Bucks & Miciko Edit",
 		Genre = "BREAKBEAT",
@@ -1357,14 +1405,14 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://101362929989754",
 		Speed = 1.0,
 	},
-	{
-		Title = "DJ Elo1",
-		Artist = "ELOPEY",
-		Genre = "BREAKBEAT",
-		ImageId = "rbxassetid://79126465721948",
-		SoundId = "rbxassetid://85427648559465",
-		Speed = 1.0,
-	},
+	--{
+	--	Title = "DJ Elo1",
+	--	Artist = "ELOPEY",
+	--	Genre = "BREAKBEAT",
+	--	ImageId = "rbxassetid://79126465721948",
+	--	SoundId = "rbxassetid://85427648559465",
+	--	Speed = 1.0,
+	--},
 	{
 		Title = "DJ shaker",
 		Artist = "ELOPEY",
@@ -2213,12 +2261,37 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://122441894556195",
 		Speed = 1.0,
 	},
+	--INDOMIX
+	{
+		Title = "SUPER EKSIS",
+		Artist = "Falnaz, Wenzel Edit",
+		Genre = "INDOMIX",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://121788128957858",
+		Speed = 0.45, 
+	},
+	{
+		Title = "Bukan WG",
+		Artist = "FAHMY FAY X DJ JASMIN X JOANA X HRNY",
+		Genre = "INDOMIX",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://134264309038070",
+		Speed = 0.45, 
+	},
 	{
 		Title = "INDONESIA PUSAKA",
 		Artist = "ELOPEY",
 		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://90446698655389",
+		Speed = 0.45,
+	},
+	{
+		Title = "ANAK SINGKONG - RYCKO RIA X KPK X BELLA TIZA",
+		Artist = "ELOPEY",
+		Genre = "INDOMIX",
+		ImageId = "rbxassetid://79126465721948",
+		SoundId = "rbxassetid://128995937257925",
 		Speed = 0.45,
 	},
 	{
@@ -3310,14 +3383,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
-		Title = "CELAWZE | MARIKIT SA DILIM PH1",
-		Artist = "DJ LZEN",
-		Genre = "Dj Lzen",
-		ImageId = "rbxassetid://115527475804880",
-		SoundId = "rbxassetid://133303219501785",
-		Speed = 1.0,
-	},
-	{
 		Title = "CELAWZE | YANG PENTING BISA MAKAN ORA URUS",
 		Artist = "DJ LZEN",
 		Genre = "Dj Lzen",
@@ -3929,6 +3994,14 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 
 	--FUNKOT
+	{
+		Title = "FUNKOT - MENABUR KASIH MENUAI PERIH [ IPANK ]",
+		Artist = "Chiika",
+		Genre = "Funkot",
+		ImageId = "rbxassetid://113251263803742",
+		SoundId = "rbxassetid://109794484136539",
+		Speed = 0.50,
+	},
 	{
 		Title = "FUNKOT PALEMBANG - SALAH APA",
 		Artist = "Chiika",
