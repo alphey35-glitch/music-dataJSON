@@ -14,6 +14,22 @@ export type MusicItem = {
 
 local OriginalPlaylist: { MusicItem } = {
 	{
+		Title = "Indobounce VOL 2",
+		Artist = "Yoshi",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://118383175113607",
+		Speed = 0.45, 
+	},
+	{
+		Title = "BEAUTY AND A BEAT",
+		Artist = "WHISKEYHAND, JAMS HYBRID & BUCKS EDIT",
+		Genre = "BREAKBEAT",
+		ImageId = "rbxassetid://94199830714404",
+		SoundId = "rbxassetid://96963952424830",
+		Speed = 0.45, 
+	},
+	{
 		Title = "Pon de Max (VIP)",
 		Artist = "HBRP",
 		Genre = "BREAKBEAT",
@@ -4070,7 +4086,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "EDM",
 		ImageId = "rbxassetid://129650052603050",
 		SoundId = "rbxassetid://112900776298206",
-		Speed = 0.48,
+		Speed = 0.46,
 	},
 	{
 		Title = "Yogi ft. Pusha T",
