@@ -2663,7 +2663,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
-		Title = "WALI - YANK",
+		Title = "NDX LIVE",
 		Artist = "ELOPEY",
 		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
