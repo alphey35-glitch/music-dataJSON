@@ -3298,6 +3298,22 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	-- COFFE COBOY
 	{
+		Title = "DJ BAILANDO BREAKBEAT",
+		Artist = "FAHMI FAY",
+		Genre = "COFFE COBOY",
+		ImageId = "rbxassetid://105793831983368",
+		SoundId = "rbxassetid://123543961133431",
+		Speed = 0.45,
+	},
+	{
+		Title = "BREAKBEAT BAILAR TIMUR",
+		Artist = "DJ TELOR",
+		Genre = "COFFE COBOY",
+		ImageId = "rbxassetid://105793831983368",
+		SoundId = "rbxassetid://120211194124001",
+		Speed = 0.45,
+	},
+	{
 		Title = "NARCO DE JAVA (NARCO ZHKYAKBR X ADNAN)",
 		Artist = "COFFE COBOY",
 		Genre = "COFFE COBOY",
@@ -4630,14 +4646,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 0.45,
 	},
 	-- NEW ALBUM
-	{
-		Title = "BREAKBEAT BAILAR TIMUR",
-		Artist = "DJ TELOR",
-		Genre = "NEW ALBUM",
-		ImageId = "rbxassetid://107577072627434",
-		SoundId = "rbxassetid://120211194124001",
-		Speed = 0.45,
-	},
 	{
 		Title = "BLACKPINK - ‘뛰어",
 		Artist = "BLACKPINK",
