@@ -3121,7 +3121,7 @@ local OriginalPlaylist: { MusicItem } = {
 	--AMAPIANO
 	{
 		Title = "AMAPIANO MIXTAPE VOL 2 P2",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://106243868570183",
@@ -3129,7 +3129,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "AMAPIANO MIXTAPE VOL 2 P1",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://80203308804905",
@@ -3137,7 +3137,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "AMAPIANO MIXTAPE VOL 1 P2",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://88182308796447",
@@ -3145,7 +3145,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "AMAPIANO MIXTAPE VOL 1 P1",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://70947299379089",
@@ -3153,7 +3153,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "JARANG PULANG",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://103240168196299",
@@ -3161,7 +3161,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "NILAILAH AKU",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://79424661661502",
@@ -3169,7 +3169,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "LAKSMANA RAJA DILAUT",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://71628007490504",
@@ -3177,7 +3177,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "CINDAI",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://104547963926895",
@@ -3185,7 +3185,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "LAILA CANGGUNG",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://82533965636985",
@@ -3193,7 +3193,7 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	{
 		Title = "SHAE SAYANG",
-		Artist = "ELOVADNNN",
+		Artist = "AMAPIANO",
 		Genre = "AMAPIANO",
 		ImageId = "rbxassetid://120866235284043",
 		SoundId = "rbxassetid://102028626956611",
