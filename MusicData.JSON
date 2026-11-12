@@ -1318,14 +1318,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
-		Title = "DJ Que Pasa",
-		Artist = "ELOPEY",
-		Genre = "BREAKBEAT",
-		ImageId = "rbxassetid://79126465721948",
-		SoundId = "rbxassetid://75487977943792",
-		Speed = 1.0,
-	},
-	{
 		Title = "DJ Russian Roulette",
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
@@ -1379,7 +1371,7 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "BREAKBEAT",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://97565071871727",
-		Speed = 1.0,
+		Speed = 0.95,
 	},
 	{
 		Title = "DJ starlight",
@@ -1677,14 +1669,6 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://135018311294635",
 		Speed = 1.0,
 	},
-	--{
-	--	Title = "DJ pgy 1",
-	--	Artist = "ELOPEY",
-	--	Genre = "BREAKBEAT",
-	--	ImageId = "rbxassetid://79126465721948",
-	--	SoundId = "rbxassetid://137067689748748",
-	--	Speed = 1.0,
-	--},
 	{
 		Title = "Dame Un Grrr",
 		Artist = "ELOPEY",
@@ -1693,14 +1677,6 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://101362929989754",
 		Speed = 1.0,
 	},
-	--{
-	--	Title = "DJ Elo1",
-	--	Artist = "ELOPEY",
-	--	Genre = "BREAKBEAT",
-	--	ImageId = "rbxassetid://79126465721948",
-	--	SoundId = "rbxassetid://85427648559465",
-	--	Speed = 1.0,
-	--},
 	{
 		Title = "DJ shaker",
 		Artist = "ELOPEY",
@@ -2454,14 +2430,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Speed = 1.0,
 	},
 	{
-		Title = "REMIX DROP DANCER",
-		Artist = "ELOPEY",
-		Genre = "BREAKBEAT",
-		ImageId = "rbxassetid://135289528270188",
-		SoundId = "rbxassetid://124758286284191",
-		Speed = 1.0,
-	},
-	{
 		Title = "NAKAL MAMA PAPA LARANG",
 		Artist = "ELOPEY",
 		Genre = "BREAKBEAT",
@@ -2684,14 +2652,6 @@ local OriginalPlaylist: { MusicItem } = {
 		Genre = "INDOMIX",
 		ImageId = "rbxassetid://79126465721948",
 		SoundId = "rbxassetid://72145336122244",
-		Speed = 1.0,
-	},
-	{
-		Title = "DJ GENT REMIX",
-		Artist = "ELOPEY",
-		Genre = "INDOMIX",
-		ImageId = "rbxassetid://79126465721948",
-		SoundId = "rbxassetid://87681856396074",
 		Speed = 1.0,
 	},
 	{
@@ -3094,14 +3054,6 @@ local OriginalPlaylist: { MusicItem } = {
 		SoundId = "rbxassetid://103810716695529",
 		Speed = 1.0,
 	},
---	{
---		Title = "JANGAN TUNGGU LAMA LAMA",
---		Artist = "ELOPEY",
---		Genre = "INDOMIX",
---		ImageId = "rbxassetid://79126465721948",
---		SoundId = "rbxassetid://100790333280969",
---		Speed = 1.0,
---	},
 	{
 		Title = "IMFREE HIPDUT X BB.2FR",
 		Artist = "ELOPEY",
@@ -3419,6 +3371,14 @@ local OriginalPlaylist: { MusicItem } = {
 	},
 	
 	--EDM
+	{
+		Title = "Dual Color - Make It Bounce",
+		Artist = "Richie Loop",
+		Genre = "EDM",
+		ImageId = "rbxassetid://129650052603050",
+		SoundId = "rbxassetid://126044732267281",
+		Speed = 0.45,
+	},
 	{
 		Title = "P.I.M.P. (Edit)",
 		Artist = "Lawstylez x Flowa x DJ MNS x Ramses",
